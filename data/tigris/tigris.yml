@@ -1,0 +1,12 @@
+name: "Tigris"
+description: "Tigris is an S3-compatible object storage platform built for developers and edge applications. It offers global replication and strong consistency with a free tier and usage-based pricing. It is managed by Tigris Data."
+source_url: "https://tigrisdata.com/"
+category: "S3-Compatible Clouds"
+tags:
+  - "freemium"
+  - "api"
+  - "s3-compatible"
+  - "global"
+icon_url: "https://icons.duckduckgo.com/ip3/tigrisdata.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://tigrisdata.com/>\n"
+updated_at: "2026-11-21 02:00"

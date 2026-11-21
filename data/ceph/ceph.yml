@@ -1,0 +1,13 @@
+name: "Ceph"
+description: "Ceph is an open-source software-defined storage platform providing object, block, and file storage in a unified system. Its RADOS Gateway offers an S3-compatible API for object storage. Ceph is released under the GNU LGPL v2.1 license."
+source_url: "https://ceph.io/"
+category: "Self-Hosted Object Storage"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/ceph.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ceph.io/>\n- Repository: <https://github.com/ceph/ceph>\n\nLicense: GNU LGPL v2.1.\n"
+updated_at: "2026-11-21 02:00"

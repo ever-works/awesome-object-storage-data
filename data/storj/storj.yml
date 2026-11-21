@@ -1,0 +1,13 @@
+name: "Storj"
+description: "Storj is a decentralized, S3-compatible object storage network that encrypts and distributes data across independent node operators. It is suitable for backup, media, and cloud-native workloads. Users pay for storage and bandwidth used."
+source_url: "https://storj.io/"
+category: "Decentralized Storage"
+tags:
+  - "paid"
+  - "api"
+  - "decentralized"
+  - "s3-compatible"
+  - "encryption"
+icon_url: "https://icons.duckduckgo.com/ip3/storj.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://storj.io/>\n"
+updated_at: "2026-11-21 02:00"

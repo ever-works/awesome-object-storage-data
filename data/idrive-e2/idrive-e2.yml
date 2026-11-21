@@ -1,0 +1,13 @@
+name: "IDrive e2"
+description: "IDrive e2 is an S3-compatible object storage service with zero egress fees. It is designed for backup, cloud storage, and S3 migration scenarios. Plans include a free tier and paid options based on capacity."
+source_url: "https://www.idrive.com/e2"
+category: "Zero-Egress Storage"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "zero-egress"
+  - "s3-compatible"
+icon_url: "https://icons.duckduckgo.com/ip3/www.idrive.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.idrive.com/e2>\n"
+updated_at: "2026-11-21 02:00"

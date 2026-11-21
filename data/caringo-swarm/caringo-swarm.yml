@@ -1,0 +1,13 @@
+name: "Caringo Swarm"
+description: "Caringo Swarm is a software-defined object storage platform for private and hybrid cloud deployments. It provides an S3-compatible API and features self-healing storage and policy-driven management. It is offered under commercial licensing."
+source_url: "https://www.caringo.com/"
+category: "Self-Hosted Object Storage"
+tags:
+  - "enterprise"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "hybrid-cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.caringo.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.caringo.com/>\n"
+updated_at: "2026-11-21 02:00"

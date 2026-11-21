@@ -1,0 +1,13 @@
+name: "Backblaze B2"
+description: "Backblaze B2 is an S3-compatible cloud storage platform for backup, archiving, and application data. It offers free egress up to a multiple of stored data and competitive per-GB pricing. A free tier includes 10 GB of storage."
+source_url: "https://www.backblaze.com/b2"
+category: "S3-Compatible Clouds"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "zero-egress"
+  - "s3-compatible"
+icon_url: "https://icons.duckduckgo.com/ip3/www.backblaze.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.backblaze.com/b2>\n"
+updated_at: "2026-11-21 02:00"

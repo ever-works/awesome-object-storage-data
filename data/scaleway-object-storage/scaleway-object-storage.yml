@@ -1,0 +1,13 @@
+name: "Scaleway Object Storage"
+description: "Scaleway Object Storage is an S3-compatible object storage service hosted in Europe. It offers a free tier and usage-based pricing for storage and requests. It integrates with Scaleway's cloud ecosystem."
+source_url: "https://www.scaleway.com/en/object-storage"
+category: "S3-Compatible Clouds"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "s3-compatible"
+  - "european"
+icon_url: "https://icons.duckduckgo.com/ip3/www.scaleway.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.scaleway.com/en/object-storage>\n"
+updated_at: "2026-11-21 02:00"

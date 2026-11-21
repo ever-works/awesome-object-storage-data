@@ -1,0 +1,13 @@
+name: "Dell EMC ECS"
+description: "Dell EMC ECS is an enterprise-grade, S3-compatible object storage platform for on-premises and hybrid cloud. It supports multi-tenancy, geo-replication, and cloud tiering. It is sold as hardware and software with enterprise support."
+source_url: "https://www.dell.com/en-us/data-storage/ecs.htm"
+category: "Self-Hosted Object Storage"
+tags:
+  - "enterprise"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "on-premises"
+icon_url: "https://icons.duckduckgo.com/ip3/www.dell.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.dell.com/en-us/data-storage/ecs.htm>\n"
+updated_at: "2026-11-21 02:00"

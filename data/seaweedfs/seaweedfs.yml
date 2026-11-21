@@ -1,0 +1,13 @@
+name: "SeaweedFS"
+description: "SeaweedFS is an open-source distributed storage system for blobs, objects, and files. It offers an S3-compatible API, automatic volume replication, and low-latency access. It is licensed under Apache 2.0."
+source_url: "https://seaweedfs.com/"
+category: "Self-Hosted Object Storage"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "distributed"
+icon_url: "https://icons.duckduckgo.com/ip3/seaweedfs.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://seaweedfs.com/>\n- Repository: <https://github.com/seaweedfs/seaweedfs>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 02:00"

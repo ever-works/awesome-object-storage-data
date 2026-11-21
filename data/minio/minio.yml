@@ -1,0 +1,13 @@
+name: "MinIO"
+description: "MinIO is an open-source, S3-compatible object storage server for self-hosted cloud infrastructure. It supports high-performance workloads, erasure coding, and multi-cloud deployments. It is released under the GNU AGPL v3 license."
+source_url: "https://min.io/"
+category: "Self-Hosted Object Storage"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/min.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://min.io/>\n- Repository: <https://github.com/minio/minio>\n\nLicense: GNU AGPL v3.\n"
+updated_at: "2026-11-21 02:00"

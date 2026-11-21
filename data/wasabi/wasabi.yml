@@ -1,0 +1,12 @@
+name: "Wasabi"
+description: "Wasabi is an S3-compatible object storage service that charges for storage with no egress or API request fees. It targets backup, archive, and cloud application workloads. Pricing is capacity-based with no hidden charges."
+source_url: "https://wasabi.com/"
+category: "Zero-Egress Storage"
+tags:
+  - "paid"
+  - "api"
+  - "zero-egress"
+  - "s3-compatible"
+icon_url: "https://icons.duckduckgo.com/ip3/wasabi.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://wasabi.com/>\n"
+updated_at: "2026-11-21 02:00"

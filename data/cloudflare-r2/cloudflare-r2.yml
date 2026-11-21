@@ -1,0 +1,13 @@
+name: "Cloudflare R2"
+description: "Cloudflare R2 is an S3-compatible object storage service with no egress fees. It stores data globally and integrates with Cloudflare's network. A free tier is available, with paid usage beyond allowances."
+source_url: "https://www.cloudflare.com/products/r2"
+category: "Zero-Egress Storage"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "zero-egress"
+  - "s3-compatible"
+icon_url: "https://icons.duckduckgo.com/ip3/www.cloudflare.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.cloudflare.com/products/r2>\n"
+updated_at: "2026-11-21 02:00"

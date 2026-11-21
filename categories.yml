@@ -1,0 +1,12 @@
+- id: s3-compatible-clouds
+  name: "S3-Compatible Clouds"
+- id: self-hosted-object-storage
+  name: "Self-Hosted Object Storage"
+- id: zero-egress-storage
+  name: "Zero-Egress Storage"
+- id: archive-and-cold-storage
+  name: "Archive & Cold Storage"
+- id: decentralized-storage
+  name: "Decentralized Storage"
+- id: pricing-and-benchmarks
+  name: "Pricing & Benchmarks"

@@ -1,0 +1,13 @@
+name: "Cloudian HyperStore"
+description: "Cloudian HyperStore is an on-premises, S3-compatible object storage platform for enterprise data lakes and archives. It supports geo-replication, tiering, and exabyte-scale deployments. It is sold as commercial software with enterprise support."
+source_url: "https://www.cloudian.com/"
+category: "Self-Hosted Object Storage"
+tags:
+  - "enterprise"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "on-premises"
+icon_url: "https://icons.duckduckgo.com/ip3/www.cloudian.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.cloudian.com/>\n"
+updated_at: "2026-11-21 02:00"

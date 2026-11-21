@@ -1,0 +1,12 @@
+name: "DigitalOcean Spaces"
+description: "DigitalOcean Spaces is an S3-compatible object storage service for developers and small businesses. It includes a built-in CDN and predictable monthly pricing with included storage and transfer. Data is stored across multiple availability zones."
+source_url: "https://www.digitalocean.com/products/spaces"
+category: "S3-Compatible Clouds"
+tags:
+  - "paid"
+  - "api"
+  - "s3-compatible"
+  - "cdn"
+icon_url: "https://icons.duckduckgo.com/ip3/www.digitalocean.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.digitalocean.com/products/spaces>\n"
+updated_at: "2026-11-21 02:00"

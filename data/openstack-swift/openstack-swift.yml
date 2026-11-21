@@ -1,0 +1,12 @@
+name: "OpenStack Swift"
+description: "OpenStack Swift is an open-source object storage system for cloud infrastructure. It provides a RESTful API and is designed for scalability and durability. It is part of the OpenStack platform and licensed under Apache 2.0."
+source_url: "https://opendev.org/openstack/swift"
+category: "Self-Hosted Object Storage"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "cloud-infrastructure"
+icon_url: "https://icons.duckduckgo.com/ip3/opendev.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://opendev.org/openstack/swift>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 02:00"

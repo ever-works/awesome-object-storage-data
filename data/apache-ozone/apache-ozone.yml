@@ -1,0 +1,13 @@
+name: "Apache Ozone"
+description: "Apache Ozone is an open-source, distributed object store designed for Hadoop and big data workloads. It provides an S3-compatible API and scales to billions of objects. It is licensed under Apache 2.0."
+source_url: "https://ozone.apache.org/"
+category: "Self-Hosted Object Storage"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "s3-compatible"
+  - "big-data"
+icon_url: "https://icons.duckduckgo.com/ip3/ozone.apache.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ozone.apache.org/>\n- Repository: <https://github.com/apache/ozone>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 02:00"

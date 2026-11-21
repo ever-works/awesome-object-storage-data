@@ -1,0 +1,13 @@
+name: "Oracle Cloud Infrastructure Object Storage"
+description: "Oracle Cloud Infrastructure Object Storage is an S3-compatible internet-scale storage service. It offers standard, infrequent access, and archive tiers with no minimum commitment. Data is encrypted and redundantly stored."
+source_url: "https://www.oracle.com/cloud/storage"
+category: "S3-Compatible Clouds"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "s3-compatible"
+  - "archive"
+icon_url: "https://icons.duckduckgo.com/ip3/www.oracle.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.oracle.com/cloud/storage>\n"
+updated_at: "2026-11-21 02:00"

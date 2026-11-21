@@ -1,0 +1,42 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: s3-compatible
+  name: "S3-Compatible"
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: zero-egress
+  name: "Zero-Egress"
+- id: global
+  name: "Global"
+- id: cdn
+  name: "CDN"
+- id: decentralized
+  name: "Decentralized"
+- id: encryption
+  name: "Encryption"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: distributed
+  name: "Distributed"
+- id: cloud
+  name: "Cloud"
+- id: european
+  name: "European"
+- id: archive
+  name: "Archive"
+- id: big-data
+  name: "Big Data"
+- id: cloud-infrastructure
+  name: "Cloud Infrastructure"
+- id: on-premises
+  name: "On-Premises"
+- id: hybrid-cloud
+  name: "Hybrid Cloud"
