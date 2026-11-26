@@ -1,0 +1,75 @@
+name: S3 Drive
+description: S3 Drive mounts S3-compatible storage as a local drive, allowing
+  users to access, edit, and collaborate on cloud files in real-time as if they
+  were on their device. It connects seamlessly with Amazon S3, Wasabi, Azure,
+  B2, and more across Windows, MacOS, and Linux, with features including access
+  management, data encryption, logging and monitoring, intelligent tiering, and
+  cross-region replication.
+source_url: https://s3drive.io
+category: S3-Compatible Clouds
+tags:
+  - Free Plan
+  - Freemium
+  - S3-Compatible
+  - Cross-Platform
+markdown: >-
+  ## Overview
+
+
+  S3 Drive mounts S3-compatible storage as a local drive on Windows, MacOS, and
+  Linux, enabling real-time access and collaboration on cloud files.
+
+
+  ## Supported Storage Backends
+
+
+  - Amazon S3
+
+  - Wasabi
+
+  - Microsoft Azure
+
+  - Backblaze B2
+
+  - Other S3-compatible storage
+
+
+  ## Key Features
+
+
+  - Access Management
+
+  - Data Encryption
+
+  - Logging And Monitoring
+
+  - Intelligent Tiering
+
+  - Scalability
+
+  - Cross Region Replication
+
+  - Integration With AWS Services
+
+  - Versioning
+
+
+  ## Pricing
+
+
+  | Edition | Price |
+
+  |---------|-------|
+
+  | Personal Edition | $0 per month |
+
+  | Professional Edition | $79 per month |
+
+  | Server Edition | $399 per month |
+
+
+  ## Platforms
+
+
+  Windows, MacOS, Linux
+updated_at: 2026-11-26 13:04

@@ -1,0 +1,38 @@
+name: Buildkite
+description: CI Pipelines free for 3 users and 5k job minutes/month. Test
+  Analytics free developer tier includes 100k test executions/month, with more
+  free inclusions for open-source projects.
+source_url: https://buildkite.com
+category: CI/CD
+tags:
+  - freemium
+  - open-source
+  - test-analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Buildkite is a CI Pipelines platform offering a free tier for small teams and
+  open-source projects.
+
+
+  ## Features
+
+
+  - CI Pipelines
+
+  - Test Analytics
+
+  - Multiple executor types
+
+  - Local runners
+
+
+  ## Pricing
+
+
+  Free: 3 users, 5k job minutes/month. Test Analytics free developer tier: 100k
+  test executions/month. More free inclusions for open-source projects.
+brand: Buildkite
+updated_at: 2026-11-26 13:04

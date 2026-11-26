@@ -1,0 +1,37 @@
+name: Filebase
+description: S3-compatible object storage service powered by blockchain
+  technology. Offers 5 GB of free storage for an unlimited duration, providing
+  S3 API compatibility for developers and applications.
+source_url: https://filebase.com
+category: Decentralized Storage
+tags:
+  - S3-compatible
+  - blockchain
+  - free tier
+markdown: >-
+  ## Overview
+
+
+  Filebase provides S3-compatible object storage powered by blockchain
+  infrastructure. It offers S3 API compatibility, making it suitable for
+  developers and applications that require object storage with blockchain-based
+  storage backend.
+
+
+  ## Key Features
+
+
+  - S3-compatible API
+
+  - Blockchain-powered storage
+
+  - Unlimited duration free tier
+
+
+  ## Pricing
+
+
+  Free plan includes 5 GB of storage for an unlimited duration.
+brand: Filebase
+images: []
+updated_at: 2026-11-26 13:04

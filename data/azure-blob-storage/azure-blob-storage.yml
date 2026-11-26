@@ -1,0 +1,56 @@
+name: Azure Blob Storage
+description: Azure Blob Storage is Microsoft's object storage solution with
+  S3-compatible API preview. It offers four tiers, 100 GB/mo free egress,
+  storage starting at $0.018/GB/mo for hot tier, and egress at $0.087/GB after
+  free allowance. Max object size is 4.77 TB.
+source_url: https://azure.microsoft.com/en-us/products/storage/blobs
+category: S3-Compatible Clouds
+tags:
+  - paid
+  - api
+  - s3-compatible
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Azure Blob Storage is Microsoft's object storage service on the Azure cloud
+  platform. It offers S3-compatible API in preview, along with native Azure
+  storage APIs. Supports object lock, versioning, and multiple storage tiers.
+
+
+  ## Pricing
+
+
+  Paid. Storage starts at $0.018/GB/mo for hot tier. Egress is $0.087/GB after
+  the 100 GB/mo free allowance.
+
+
+  ## Features
+
+
+  - S3-compatible API (preview)
+
+  - Four storage tiers
+
+  - Object lock / immutable storage
+
+  - Versioning
+
+  - 100 GB/mo free egress
+
+  - Max object size: 4.77 TB
+
+
+  ## Links
+
+
+  - Website: <https://azure.microsoft.com/en-us/products/storage/blobs>
+
+  - Pricing: <https://azure.microsoft.com/en-us/pricing/details/storage/blobs/>
+
+  - S3-compatible API docs:
+  <https://learn.microsoft.com/en-us/azure/storage/blobs/s3-compatible-api>
+brand: Microsoft Azure
+updated_at: 2026-11-26 13:04

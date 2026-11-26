@@ -1,0 +1,41 @@
+name: FileShot.io
+description: Zero-knowledge encrypted file sharing service with AES-256-GCM
+  browser-side encryption. Files are encrypted in-browser before upload. No
+  account required for sender or recipient. Self-hostable under the MIT license.
+  Free tier includes unlimited uploads with no file size restrictions.
+source_url: https://fileshot.io
+category: S3-Compatible Clouds
+tags:
+  - Zero-knowledge
+  - Open source
+  - Self-hosted
+  - MIT
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FileShot.io is a zero-knowledge encrypted file sharing service that uses
+  AES-256-GCM browser-side encryption to encrypt files in-browser before upload.
+
+
+  ## Features
+
+
+  - Zero-knowledge encryption
+
+  - AES-256-GCM browser-side encryption
+
+  - No account required for sender or recipient
+
+  - Self-hostable (MIT open-source)
+
+  - Unlimited uploads with no file size restrictions
+
+
+  ## Pricing
+
+
+  Free tier available with unlimited uploads and no file size restrictions.
+brand: FileShot.io
+updated_at: 2026-11-26 13:04

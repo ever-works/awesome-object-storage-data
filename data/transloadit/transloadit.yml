@@ -1,0 +1,41 @@
+name: Transloadit
+description: File upload and encoding service for video, audio, images, and
+  documents. Free for open source, charities, and students via the GitHub
+  Student Developer Pack. Commercial applications get 2 GB free for test
+  driving.
+source_url: https://transloadit.com
+category: S3-Compatible Clouds
+tags:
+  - Media processing
+  - File encoding
+  - Free tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Transloadit handles file uploads and encoding of video, audio, images, and
+  documents.
+
+
+  ## Features
+
+
+  - File upload handling
+
+  - Video encoding
+
+  - Audio encoding
+
+  - Image processing
+
+  - Document processing
+
+
+  ## Pricing
+
+
+  Free for open source, charities, and students via the GitHub Student Developer
+  Pack. Commercial applications get 2 GB free for test driving.
+brand: Transloadit
+updated_at: 2026-11-26 13:04

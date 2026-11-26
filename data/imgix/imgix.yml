@@ -1,0 +1,36 @@
+name: imgix
+description: Image caching, management, and CDN service. The free plan includes
+  1,000 origin images, infinite transformations, and 100 GB bandwidth.
+source_url: https://imgix.com
+category: S3-Compatible Clouds
+tags:
+  - Image CDN
+  - Image management
+  - Free tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  imgix provides image caching, management, and CDN services.
+
+
+  ## Features
+
+
+  - Image caching
+
+  - Image management
+
+  - CDN delivery
+
+  - Infinite transformations
+
+
+  ## Pricing
+
+
+  Free plan includes 1,000 origin images, infinite transformations, and 100 GB
+  bandwidth.
+brand: imgix
+updated_at: 2026-11-26 13:04

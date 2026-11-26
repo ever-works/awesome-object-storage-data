@@ -1,0 +1,39 @@
+name: Ente
+description: End-to-end encrypted cloud for photos, videos, and 2FA secrets. Can
+  also be self-hosted along with a generous forever free tier of 10 GB. For free
+  tier users, only a single replica of data is kept.
+source_url: https://ente.io
+category: S3-Compatible Clouds
+tags:
+  - End-to-end encrypted
+  - Self-hosted
+  - Free tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ente is an end-to-end encrypted cloud service for photos, videos, and 2FA
+  secrets. It can also be self-hosted.
+
+
+  ## Features
+
+
+  - End-to-end encryption
+
+  - Photo, video, and 2FA secret storage
+
+  - Self-hostable
+
+  - Forever free tier of 10 GB
+
+  - Single replica of data for free tier users
+
+
+  ## Pricing
+
+
+  Free tier includes 10 GB of storage forever.
+brand: Ente
+updated_at: 2026-11-26 13:04

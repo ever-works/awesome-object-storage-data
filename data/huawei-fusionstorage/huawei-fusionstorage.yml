@@ -1,0 +1,64 @@
+name: Huawei FusionStorage
+description: Huawei FusionStorage is a scalable, high-performance
+  software-defined storage solution offering S3 compatibility, high
+  availability, access control, tiered storage, data protection, RESTful API,
+  and audit logging. It is designed for startups, SMBs, mid-market, and
+  enterprises. Pricing model is not publicly listed; contact Huawei for pricing.
+source_url: https://www.huaweicloud.com/product/fusionstorage.html
+category: S3-Compatible Clouds
+tags:
+  - S3 Compatibility
+  - Self-Hosted
+  - Enterprise
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Huawei FusionStorage is a cutting-edge software solution offering scalable,
+  high-performance storage with seamless data management. It enhances
+  efficiency, ensures data reliability, and supports diverse workloads,
+  empowering businesses to optimize their storage infrastructure effortlessly.
+
+
+  ## Target Segments
+
+
+  - StartUps
+
+  - SMBs
+
+  - Mid-Market
+
+  - Enterprises
+
+
+  ## Key Features
+
+
+  - High Availability
+
+  - S3 Compatibility
+
+  - Access Control
+
+  - Tiered Storage
+
+  - Scalability
+
+  - Data Protection
+
+  - Restful Api
+
+  - Audit Logging
+
+
+  ## Pricing
+
+
+  Starting Price: Not publicly listed. Contact Huawei for pricing details.
+brand: Huawei Technologies
+brand_logo_url: https://www.huawei.com/-/media/HUAWEI/img/logo/huawei-logo.svg
+images: []
+updated_at: 2026-11-26 13:04

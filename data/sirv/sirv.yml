@@ -1,0 +1,26 @@
+name: Sirv
+description: Smart Image CDN with on-the-fly image optimization and resizing.
+  The free tier includes 500 MB of storage and 2 GB of bandwidth.
+source_url: https://sirv.com
+category: S3-Compatible Clouds
+tags:
+  - Image CDN
+  - Image optimization
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  Sirv is a smart Image CDN with on-the-fly image optimization and resizing.
+
+  ## Features
+
+  - Image CDN
+  - On-the-fly image optimization
+  - Image resizing
+
+  ## Pricing
+
+  Free tier includes 500 MB of storage and 2 GB of bandwidth.
+brand: Sirv
+updated_at: 2026-11-26 13:04

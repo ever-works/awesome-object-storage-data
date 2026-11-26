@@ -1,0 +1,40 @@
+name: Gcore Storage
+description: Gcore Storage is an S3-compatible cloud object storage service
+  offered by Gcore. It provides scalable object storage with S3 API
+  compatibility for cloud applications and content delivery. The service is a
+  paid cloud storage offering within Gcore's global infrastructure portfolio.
+source_url: https://gcore.com/storage/object-storage
+category: S3-Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - API
+  - Cloud Storage
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gcore Storage is an S3-compatible cloud object storage service offered by
+  Gcore for cloud applications and content delivery.
+
+
+  ## Features
+
+
+  - S3 API compatibility
+
+  - Scalable object storage
+
+  - Cloud deployment model
+
+  - Global infrastructure integration
+
+
+  ## Pricing
+
+
+  Paid cloud service. Specific pricing details available on the official
+  website.
+brand: Gcore
+updated_at: 2026-11-26 13:04

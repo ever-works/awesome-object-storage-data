@@ -1,0 +1,55 @@
+name: Impossible Cloud
+description: Impossible Cloud is an EU-focused S3-compatible object storage
+  service offering free egress with object lock and versioning. Storage costs
+  $0.006/GB/mo. A newer provider with limited track record but truly unlimited
+  free egress.
+source_url: https://impossiblecloud.com
+category: Zero-Egress Storage
+tags:
+  - paid
+  - api
+  - s3-compatible
+  - zero-egress
+  - european
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Impossible Cloud is an EU-focused object storage service with full S3
+  compatibility. It offers object lock, versioning, and genuinely unlimited free
+  egress without reasonable-use restrictions. Storage is priced at $0.006/GB/mo.
+
+
+  ## Pricing
+
+
+  Paid. Storage at $0.006/GB/mo. Egress is free.
+
+
+  ## Features
+
+
+  - Full S3 compatibility
+
+  - Object lock
+
+  - Versioning
+
+  - Unlimited free egress
+
+  - EU-focused
+
+  - Max object size: 5 TB
+
+
+  ## Links
+
+
+  - Website: <https://impossiblecloud.com>
+
+  - Pricing: <https://impossiblecloud.com/pricing>
+
+  - Docs: <https://docs.impossiblecloud.com/>
+brand: Impossible Cloud
+updated_at: 2026-11-26 13:04

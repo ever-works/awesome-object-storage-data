@@ -1,0 +1,41 @@
+name: anon.li Drop
+description: Zero-knowledge end-to-end encrypted file sharing service with
+  client-side AES-256-GCM encryption and zero server-side data access. Free
+  uploads are available for files up to 5GB with a maximum expiry of 3 days
+  through the website, CLI, or API.
+source_url: https://anon.li
+category: S3-Compatible Clouds
+tags:
+  - Zero-knowledge
+  - End-to-end encrypted
+  - Free plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  anon.li Drop is a zero-knowledge end-to-end encrypted file sharing service.
+  Files are encrypted client-side using AES-256-GCM before upload, and the
+  server has zero access to the data.
+
+
+  ## Features
+
+
+  - Client-side AES-256-GCM encryption
+
+  - Zero server-side data access
+
+  - Free uploads for files up to 5GB
+
+  - Maximum expiry of 3 days
+
+  - Accessible via website, CLI, or API
+
+
+  ## Pricing
+
+
+  Free tier available with file size limit of 5GB and max 3-day expiry.
+brand: anon.li
+updated_at: 2026-11-26 13:04

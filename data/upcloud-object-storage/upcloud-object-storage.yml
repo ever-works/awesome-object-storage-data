@@ -1,0 +1,38 @@
+name: UpCloud Object Storage
+description: UpCloud Object Storage is an S3-compatible cloud object storage
+  service offered by UpCloud. It provides scalable object storage with S3 API
+  compatibility for cloud-native applications and workloads. The service is a
+  paid cloud storage offering within UpCloud's infrastructure portfolio.
+source_url: https://upcloud.com/products/object-storage
+category: S3-Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - API
+  - Cloud Storage
+featured: false
+markdown: >-
+  ## Overview
+
+
+  UpCloud Object Storage is an S3-compatible cloud object storage service
+  offered by UpCloud for cloud-native applications.
+
+
+  ## Features
+
+
+  - S3 API compatibility
+
+  - Scalable object storage
+
+  - Cloud deployment model
+
+
+  ## Pricing
+
+
+  Paid cloud service. Specific pricing details available on the official
+  website.
+brand: UpCloud
+updated_at: 2026-11-26 13:04

@@ -1,0 +1,27 @@
+name: dlvr.sh
+description: Temporary file delivery service for agents and automation. The free
+  tier includes 10 deliveries every 24 hours with API, MCP, and CLI access.
+source_url: https://dlvr.sh
+category: S3-Compatible Clouds
+tags:
+  - File delivery
+  - Automation
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  dlvr.sh provides temporary file delivery for agents and automation.
+
+  ## Features
+
+  - Temporary file delivery
+  - API access
+  - MCP access
+  - CLI access
+
+  ## Pricing
+
+  Free tier includes 10 deliveries every 24 hours.
+brand: dlvr.sh
+updated_at: 2026-11-26 13:04

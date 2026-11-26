@@ -1,0 +1,31 @@
+name: appveyor.com
+description: CD service for Windows, free for Open Source projects.
+source_url: https://appveyor.com
+category: CI/CD
+tags:
+  - free-plan
+  - windows
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  appveyor.com is a continuous delivery service for Windows, offered free for
+  Open Source projects.
+
+
+  ## Features
+
+
+  - CD service for Windows
+
+  - Free for Open Source
+
+
+  ## Pricing
+
+
+  Free for Open Source projects.
+brand: AppVeyor
+updated_at: 2026-11-26 13:04

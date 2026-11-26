@@ -1,0 +1,31 @@
+name: tickgit.com
+description: Surfaces TODO comments and other markers to identify areas of code
+  worth returning to for improvement.
+source_url: https://tickgit.com
+category: CI/CD
+tags:
+  - free-plan
+  - developer-tools
+featured: false
+markdown: >-
+  ## Overview
+
+
+  tickgit.com surfaces TODO comments and other markers in code to help
+  developers identify areas worth returning to for improvement.
+
+
+  ## Features
+
+
+  - Surfaces TODO comments
+
+  - Identifies code areas for improvement
+
+
+  ## Pricing
+
+
+  Free.
+brand: tickgit
+updated_at: 2026-11-26 13:04

@@ -1,0 +1,53 @@
+name: ZOT OCI Registry
+description: Production-ready vendor-neutral OCI-native container image
+  registry. Self-hosted, open-source project licensed under Apache-2.0, with Go
+  and Docker support.
+source_url: https://zotregistry.io/
+category: Self-Hosted Object Storage
+tags:
+  - open-source
+  - self-hosted
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ZOT is a production-ready, vendor-neutral OCI-native container image registry.
+  It provides a complete implementation of the OCI distribution specification
+  for storing and distributing container images.
+
+
+  ## Deployment
+
+
+  Self-hosted. Built with Go, supports Docker deployment.
+
+
+  ## License
+
+
+  Apache-2.0 License. Source code available on GitHub.
+
+
+  ## Features
+
+
+  - OCI-native container image registry
+
+  - Vendor-neutral
+
+  - Production-ready
+
+  - Go-based implementation
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache-2.0 license.
+brand: ZOT
+brand_logo_url: https://zotregistry.io/img/logo.svg
+updated_at: 2026-11-26 13:04

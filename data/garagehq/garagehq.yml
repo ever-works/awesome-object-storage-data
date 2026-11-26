@@ -1,0 +1,50 @@
+name: GarageHQ
+description: Geo-distributed, S3-compatible storage service that can fulfill
+  many needs. Self-hosted, open-source project licensed under AGPL-3.0, built
+  with Docker and Rust.
+source_url: https://garagehq.de/
+category: S3-Compatible Clouds
+tags:
+  - open-source
+  - self-hosted
+  - s3-compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  GarageHQ is a geo-distributed, S3-compatible storage service designed to
+  fulfill many storage needs. It provides an S3-compatible interface for storing
+  and retrieving objects across distributed nodes.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker. Built with Rust.
+
+
+  ## License
+
+
+  AGPL-3.0 License. Source code available on GitHub.
+
+
+  ## Features
+
+
+  - Geo-distributed storage
+
+  - S3-compatible API
+
+  - Docker deployment
+
+  - Rust-based implementation
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+brand: GarageHQ
+updated_at: 2026-11-26 13:04

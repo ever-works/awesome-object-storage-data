@@ -1,0 +1,48 @@
+name: RustFS
+description: RustFS is an open-source, S3-compatible high-performance object
+  storage system supporting migration and coexistence with other S3-compatible
+  platforms such as MinIO and Ceph. It is written in Rust and designed for
+  high-performance object storage workloads.
+source_url: https://github.com/RustFS/RustFS
+category: Self-Hosted Object Storage
+tags:
+  - open-source
+  - self-hosted
+  - S3-compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RustFS is an open-source, S3-compatible high-performance object storage system
+  written in Rust. It supports migration and coexistence with other
+  S3-compatible platforms such as MinIO and Ceph.
+
+
+  ## Key Features
+
+
+  - S3-compatible object storage API
+
+  - High-performance object storage
+
+  - Migration support for other S3-compatible platforms
+
+  - Coexistence with MinIO and Ceph
+
+  - Written in Rust
+
+
+  ## License
+
+
+  Open source. Repository: https://github.com/RustFS/RustFS
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-26 13:04

@@ -1,0 +1,37 @@
+name: ImageKit.io
+description: Image CDN with automatic optimization, real-time transformation,
+  and storage that can be integrated with existing setups in minutes. The free
+  plan includes up to 20 GB of bandwidth per month.
+source_url: https://imagekit.io
+category: S3-Compatible Clouds
+tags:
+  - Image CDN
+  - Image optimization
+  - Free tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ImageKit.io is an image CDN with automatic optimization, real-time
+  transformation, and storage capabilities.
+
+
+  ## Features
+
+
+  - Image CDN
+
+  - Automatic image optimization
+
+  - Real-time image transformation
+
+  - Storage integration
+
+
+  ## Pricing
+
+
+  Free plan includes up to 20 GB of bandwidth per month.
+brand: ImageKit
+updated_at: 2026-11-26 13:04

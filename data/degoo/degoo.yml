@@ -1,0 +1,28 @@
+name: Degoo
+description: AI-based cloud storage service offering up to 20 GB of free
+  storage, support for three devices, and a 5 GB referral bonus (with 90 days of
+  account inactivity policy).
+source_url: https://degoo.com
+category: S3-Compatible Clouds
+tags:
+  - Cloud storage
+  - Free tier
+  - AI-based
+featured: false
+markdown: |-
+  ## Overview
+
+  Degoo is an AI-based cloud storage service.
+
+  ## Features
+
+  - Up to 20 GB of free storage
+  - Support for three devices
+  - 5 GB referral bonus
+  - 90 days account inactivity policy
+
+  ## Pricing
+
+  Free plan with up to 20 GB storage.
+brand: Degoo
+updated_at: 2026-11-26 13:04

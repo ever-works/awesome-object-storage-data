@@ -1,0 +1,26 @@
+name: Imgduck
+description: Minimalist and fast image hosting service with direct link and API
+  support. The free tier offers 1 GB storage and unlimited requests per month.
+source_url: https://imgduck.com
+category: S3-Compatible Clouds
+tags:
+  - Image hosting
+  - Free tier
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Imgduck is a minimalist and fast image hosting service.
+
+  ## Features
+
+  - Image hosting
+  - Direct links
+  - API support
+
+  ## Pricing
+
+  Free tier includes 1 GB storage and unlimited requests per month.
+brand: Imgduck
+updated_at: 2026-11-26 13:04

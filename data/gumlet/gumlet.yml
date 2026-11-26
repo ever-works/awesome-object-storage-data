@@ -1,0 +1,27 @@
+name: Gumlet
+description: Image and video hosting, processing and streaming via CDN. Provides
+  a generous free tier of 250 GB per month for videos and 30 GB per month for
+  images.
+source_url: https://gumlet.com
+category: S3-Compatible Clouds
+tags:
+  - Image CDN
+  - Video streaming
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  Gumlet provides image and video hosting, processing, and streaming via CDN.
+
+  ## Features
+
+  - Image and video hosting
+  - Image and video processing
+  - CDN streaming
+
+  ## Pricing
+
+  Free tier includes 250 GB per month for videos and 30 GB per month for images.
+brand: Gumlet
+updated_at: 2026-11-26 13:04

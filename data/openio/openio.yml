@@ -1,0 +1,67 @@
+name: OpenIO
+description: OpenIO is a versatile object storage solution known for high
+  scalability, efficient data management, and seamless integration with existing
+  infrastructures. It offers robust performance, easy deployment, self-healing,
+  load balancing, S3 compatibility, erasure coding, policy-based management,
+  lifecycle management, data migration, and monitoring analytics. OpenIO is
+  open-source software; visit openio.io for repository and licensing details.
+source_url: https://www.openio.io/
+category: Self-Hosted Object Storage
+tags:
+  - Open Source
+  - Self-Hosted
+  - S3 Compatibility
+  - Erasure Coding
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenIO is a versatile object storage solution known for its high scalability,
+  efficient data management, and seamless integration with existing
+  infrastructures. It offers robust performance, easy deployment, and advanced
+  features like self-healing and load balancing, ensuring reliable and efficient
+  storage operations.
+
+
+  ## Target Segments
+
+
+  - StartUps
+
+  - SMBs
+
+  - Mid-Market
+
+  - Enterprises
+
+
+  ## Key Features
+
+
+  - Policy Based Management
+
+  - Lifecycle Management
+
+  - Data Migration
+
+  - S3 Compatibility
+
+  - Load Balancing
+
+  - Erasure Coding
+
+  - Scalability
+
+  - Monitoring And Analytics
+
+
+  ## Pricing
+
+
+  Starting Price: Not publicly listed. OpenIO is open-source software; refer to
+  the project repository for licensing and deployment details.
+brand: OpenIO
+brand_logo_url: https://www.openio.io/assets/images/logo.svg
+images: []
+updated_at: 2026-11-26 13:04

@@ -1,0 +1,25 @@
+name: Sync.com
+description: End-to-end cloud storage service offering 5 GB of free storage.
+source_url: https://sync.com
+category: S3-Compatible Clouds
+tags:
+  - End-to-end encrypted
+  - Cloud storage
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  Sync.com is an end-to-end encrypted cloud storage service.
+
+  ## Features
+
+  - End-to-end encryption
+  - Cloud storage
+  - 5 GB free storage
+
+  ## Pricing
+
+  Free tier includes 5 GB of storage.
+brand: Sync.com
+updated_at: 2026-11-26 13:04

@@ -1,0 +1,26 @@
+name: reSmush.it
+description: Free API for image optimization, implemented on common CMS
+  platforms like WordPress, Drupal, and Magento. Over seven billion images have
+  been treated, and the service remains free of charge.
+source_url: https://resmush.it
+category: S3-Compatible Clouds
+tags:
+  - Image optimization
+  - Free API
+featured: false
+markdown: |-
+  ## Overview
+
+  reSmush.it is a free API that provides image optimization.
+
+  ## Features
+
+  - Free image optimization API
+  - CMS implementations for WordPress, Drupal, Magento
+  - Over seven billion images treated
+
+  ## Pricing
+
+  Free of charge.
+brand: reSmush.it
+updated_at: 2026-11-26 13:04

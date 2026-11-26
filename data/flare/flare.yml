@@ -1,0 +1,52 @@
+name: Flare
+description: Nonbloated, modern, and highly configurable file/screenshot vault
+  server with support for ShareX, Flameshot, and Spectacle. Offers OCR search
+  and more. Self-hosted, open-source project licensed under MIT.
+source_url: https://flare.sh/
+category: Self-Hosted Object Storage
+tags:
+  - open-source
+  - self-hosted
+  - MIT
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flare is a nonbloated, modern, and highly configurable file/screenshot vault
+  server. It supports ShareX, Flameshot, and Spectacle clients, and offers OCR
+  search functionality.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker. Built with Node.js.
+
+
+  ## License
+
+
+  MIT License. Source code available on GitHub.
+
+
+  ## Features
+
+
+  - File and screenshot vault server
+
+  - ShareX, Flameshot, and Spectacle support
+
+  - OCR search
+
+  - Highly configurable
+
+  - Docker deployment
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Flare
+updated_at: 2026-11-26 13:04

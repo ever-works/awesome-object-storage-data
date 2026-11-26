@@ -1,0 +1,34 @@
+name: BorgBase
+description: Simple and secure offsite backup hosting for Borg Backup. Offers 10
+  GB of free backup space and two repositories.
+source_url: https://www.borgbase.com/
+category: S3-Compatible Clouds
+tags:
+  - Backup
+  - Borg
+  - Free tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BorgBase provides simple and secure offsite backup hosting specifically for
+  Borg Backup.
+
+
+  ## Features
+
+
+  - Offsite backup hosting for Borg Backup
+
+  - 10 GB free backup space
+
+  - Two repositories included
+
+
+  ## Pricing
+
+
+  Free tier includes 10 GB of backup space and two repositories.
+brand: BorgBase
+updated_at: 2026-11-26 13:04

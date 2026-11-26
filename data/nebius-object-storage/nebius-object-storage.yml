@@ -1,0 +1,54 @@
+name: Nebius Object Storage
+description: Nebius Object Storage is an EU-based S3-compatible object storage
+  service from the Yandex Cloud spinoff. Storage costs $0.0164/GB/mo with egress
+  at $0.01/GB after free internal transfer. Supports object lock and versioning,
+  EU-only regions.
+source_url: https://nebius.com/services/storage
+category: S3-Compatible Clouds
+tags:
+  - paid
+  - api
+  - s3-compatible
+  - european
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nebius Object Storage is an EU-based object storage service offered by Nebius,
+  a Yandex Cloud spinoff. It provides full S3 compatibility with object lock and
+  versioning support. Storage is priced at $0.0164/GB/mo with free internal
+  transfer.
+
+
+  ## Pricing
+
+
+  Paid. Storage at $0.0164/GB/mo. Egress at $0.01/GB after free internal
+  transfer.
+
+
+  ## Features
+
+
+  - Full S3 compatibility
+
+  - Object lock
+
+  - Versioning
+
+  - Free internal transfer
+
+  - EU-only regions
+
+  - Max object size: 5 TB
+
+
+  ## Links
+
+
+  - Website: <https://nebius.com/services/storage>
+
+  - Docs: <https://docs.nebius.com/storage/s3/>
+brand: Nebius
+updated_at: 2026-11-26 13:04

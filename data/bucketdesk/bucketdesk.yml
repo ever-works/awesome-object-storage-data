@@ -1,0 +1,53 @@
+name: BucketDesk
+description: BucketDesk turns Amazon S3 buckets into a secure file workspace
+  that teams can use without AWS console logins. Files stay in the user's own
+  bucket and it connects through a scoped IAM role. Features include password
+  protection, link sharing, link expiration, file preview, cost management, IAM
+  integration, activity log, and role-based permissions.
+source_url: https://bucketdesk.com
+category: S3-Compatible Clouds
+tags:
+  - S3-Compatible
+  - File Workspace
+  - IAM Integration
+  - Team Collaboration
+markdown: >-
+  ## Overview
+
+
+  BucketDesk turns Amazon S3 buckets into a secure file workspace for teams,
+  eliminating the need for AWS console logins. Files remain in the user's own S3
+  bucket and connect via a scoped IAM role.
+
+
+  ## Key Features
+
+
+  - Password Protection
+
+  - Link Sharing
+
+  - Link Expiration
+
+  - File Preview
+
+  - Cost Management
+
+  - IAM Integration
+
+  - Activity Log
+
+  - Role Based Permissions
+
+
+  ## Storage Backend
+
+
+  Amazon S3
+
+
+  ## Deployment
+
+
+  Cloud (S3-based)
+updated_at: 2026-11-26 13:04

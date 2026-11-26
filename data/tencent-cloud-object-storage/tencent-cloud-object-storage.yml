@@ -1,0 +1,41 @@
+name: Tencent Cloud Object Storage
+description: Tencent Cloud Object Storage (COS) is an S3-compatible cloud object
+  storage service provided by Tencent Cloud. It offers scalable storage for
+  unstructured data with S3 API compatibility for integration with existing
+  S3-based applications. The service is a paid cloud storage offering within
+  Tencent Cloud's product portfolio.
+source_url: https://www.tencentcloud.com/products/cos
+category: S3-Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - API
+  - Cloud Storage
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tencent Cloud Object Storage (COS) is an S3-compatible cloud object storage
+  service provided by Tencent Cloud for storing unstructured data.
+
+
+  ## Features
+
+
+  - S3 API compatibility
+
+  - Scalable object storage
+
+  - Cloud deployment
+
+  - Integration with Tencent Cloud ecosystem
+
+
+  ## Pricing
+
+
+  Paid cloud service. Specific pricing details available on the official
+  website.
+brand: Tencent Cloud
+updated_at: 2026-11-26 13:04

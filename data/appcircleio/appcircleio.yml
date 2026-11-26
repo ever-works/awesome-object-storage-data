@@ -1,0 +1,37 @@
+name: appcircle.io
+description: An enterprise-grade mobile DevOps platform that automates the
+  build, test, and publish process for mobile apps for faster, efficient release
+  cycles. Free for 30 minutes max build time per build, 20 monthly builds, and 1
+  concurrent build.
+source_url: https://appcircle.io
+category: CI/CD
+tags:
+  - freemium
+  - mobile
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  appcircle.io is an enterprise-grade mobile DevOps platform that automates the
+  build, test, and publish process for mobile apps.
+
+
+  ## Features
+
+
+  - Automated build, test, and publish for mobile apps
+
+  - Enterprise-grade DevOps platform
+
+  - Faster, efficient release cycles
+
+
+  ## Pricing
+
+
+  Free plan: 30 minutes max build time per build, 20 monthly builds, 1
+  concurrent build.
+brand: Appcircle
+updated_at: 2026-11-26 13:04

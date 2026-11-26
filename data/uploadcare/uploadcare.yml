@@ -1,0 +1,37 @@
+name: Uploadcare
+description: Media pipeline platform providing file uploading API and UI, image
+  CDN and origin services, adaptive delivery, and smart compression. The free
+  tier includes 3000 uploads, 3 GB traffic, and 3 GB storage.
+source_url: https://uploadcare.com
+category: S3-Compatible Clouds
+tags:
+  - Media pipeline
+  - Image CDN
+  - Free tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Uploadcare provides a media pipeline with file uploading API and UI, image CDN
+  and origin services, adaptive delivery, and smart compression.
+
+
+  ## Features
+
+
+  - File Uploading API and UI
+
+  - Image CDN and Origin Services
+
+  - Adaptive Delivery
+
+  - Smart Compression
+
+
+  ## Pricing
+
+
+  Free tier includes 3000 uploads, 3 GB traffic, and 3 GB storage.
+brand: Uploadcare
+updated_at: 2026-11-26 13:04

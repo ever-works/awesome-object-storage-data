@@ -1,0 +1,23 @@
+name: pCloud
+description: Cloud storage service offering up to 10 GB of free storage.
+source_url: https://pcloud.com
+category: S3-Compatible Clouds
+tags:
+  - Cloud storage
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  pCloud is a cloud storage service.
+
+  ## Features
+
+  - Cloud storage
+  - Up to 10 GB of free storage
+
+  ## Pricing
+
+  Free tier includes up to 10 GB of storage.
+brand: pCloud
+updated_at: 2026-11-26 13:04

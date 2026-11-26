@@ -1,0 +1,35 @@
+name: libraries.io
+description: Search and dependency update notifications for 32 different package
+  managers, free for open source projects.
+source_url: https://libraries.io
+category: CI/CD
+tags:
+  - open-source
+  - free-plan
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  libraries.io is a service that searches across 32 different package managers
+  and provides dependency update notifications. It is free for open source
+  projects.
+
+
+  ## Features
+
+
+  - Search across 32 package managers
+
+  - Dependency update notifications
+
+  - Free for open source projects
+
+
+  ## Pricing
+
+
+  Free for open source.
+brand: libraries.io
+updated_at: 2026-11-26 13:04

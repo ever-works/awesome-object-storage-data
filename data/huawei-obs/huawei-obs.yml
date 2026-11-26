@@ -1,0 +1,53 @@
+name: Huawei OBS
+description: Huawei Object Storage Service (OBS) is a scalable, secure object
+  storage service for storing unlimited amounts of unstructured data. It offers
+  high reliability, lifecycle management, object lock, event notifications, and
+  static website hosting with seamless integration into Huawei Cloud services.
+source_url: https://www.huaweicloud.com/product/obs.html
+category: S3-Compatible Clouds
+tags:
+  - S3 Compatibility
+  - API
+  - Cloud Storage
+  - Enterprise
+markdown: >-
+  ## Overview
+
+
+  Huawei OBS (Object Storage Service) is a versatile cloud object storage
+  service that allows users to store unlimited amounts of unstructured data
+  securely and efficiently.
+
+
+  ## Key Features
+
+
+  - Multipart Upload
+
+  - Logging And Monitoring
+
+  - Data Encryption
+
+  - Lifecycle Management
+
+  - Event Notifications
+
+  - Object Lock
+
+  - Static Website Hosting
+
+  - Scalability
+
+
+  ## Deployment
+
+
+  Huawei OBS is a cloud service provided by Huawei Cloud.
+
+
+  ## Pricing
+
+
+  Pricing information is not publicly listed; contact Huawei Cloud for details.
+brand: Huawei Cloud
+updated_at: 2026-11-26 13:04

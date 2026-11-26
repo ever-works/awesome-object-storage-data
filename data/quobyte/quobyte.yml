@@ -1,0 +1,53 @@
+name: Quobyte
+description: Quobyte is a versatile, high-performance storage solution offering
+  scalable, cost-effective storage for demanding workloads across on-prem,
+  cloud, and hybrid environments. It features a global namespace, RESTful API,
+  automated tiering, and high availability.
+source_url: https://quobyte.com
+category: Self-Hosted Object Storage
+tags:
+  - Self Hosted
+  - API
+  - S3 Compatibility
+  - Enterprise
+markdown: >-
+  ## Overview
+
+
+  Quobyte is a software-defined storage platform designed for high-performance
+  workloads. It provides a unified namespace and scales across on-premises,
+  cloud, and hybrid deployments.
+
+
+  ## Key Features
+
+
+  - Cloud Support
+
+  - Automated Tiering
+
+  - RESTful API
+
+  - Access Control
+
+  - High Availability
+
+  - Policy Management
+
+  - Protocol Support
+
+  - Global Namespace
+
+
+  ## Deployment
+
+
+  Quobyte supports on-premises, cloud, and hybrid environments.
+
+
+  ## Pricing
+
+
+  Pricing information is not publicly listed; contact the vendor for details.
+brand: Quobyte
+updated_at: 2026-11-26 13:04

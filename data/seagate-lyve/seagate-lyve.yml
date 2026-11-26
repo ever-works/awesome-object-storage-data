@@ -1,0 +1,54 @@
+name: Seagate Lyve
+description: Seagate Lyve is a data storage platform designed to help businesses
+  manage and store large volumes of data securely and efficiently. With its
+  scalable architecture, it simplifies data migration and access across multiple
+  environments. Key features include S3 compatibility, performance optimization,
+  monitoring and alerts, geo distribution, API support, versioning, scalability,
+  and multi-tenancy.
+source_url: https://www.seagate.com
+category: S3-Compatible Clouds
+tags:
+  - S3-Compatible
+  - Enterprise
+  - Scalable
+  - Multi-Tenancy
+markdown: >-
+  ## Overview
+
+
+  Seagate Lyve is a data storage platform for managing and storing large volumes
+  of data securely and efficiently across multiple environments.
+
+
+  ## Key Features
+
+
+  - S3 Compatibility
+
+  - Performance Optimization
+
+  - Monitoring And Alerts
+
+  - Geo Distribution
+
+  - API Support
+
+  - Versioning
+
+  - Scalability
+
+  - Multi Tenancy
+
+
+  ## Target Segments
+
+
+  StartUps, SMBs, Mid-Market, Enterprises
+
+
+  ## Deployment
+
+
+  Cloud / Hybrid
+brand: Seagate Technology
+updated_at: 2026-11-26 13:04

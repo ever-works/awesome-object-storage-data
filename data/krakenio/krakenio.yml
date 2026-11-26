@@ -1,0 +1,24 @@
+name: Kraken.io
+description: Image optimization for website performance as a service. The free
+  plan supports files up to 1 MB in size.
+source_url: https://kraken.io
+category: S3-Compatible Clouds
+tags:
+  - Image optimization
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  Kraken.io is an image optimization service for website performance.
+
+  ## Features
+
+  - Image optimization
+  - Website performance improvement
+
+  ## Pricing
+
+  Free plan supports files up to 1 MB in size.
+brand: Kraken.io
+updated_at: 2026-11-26 13:04

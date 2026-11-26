@@ -1,0 +1,46 @@
+name: AIStore
+description: AIStore is a scalable storage solution for AI applications. It is
+  an object storage system optimized for AI and machine learning workloads,
+  providing high-performance data access for training and inference.
+source_url: https://github.com/AIStore/AIStore
+category: Self-Hosted Object Storage
+tags:
+  - open-source
+  - self-hosted
+  - AI-powered
+  - S3-compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AIStore is a scalable storage solution for AI applications. It is an object
+  storage system designed for AI and machine learning workloads, providing
+  high-performance data access for training and inference pipelines.
+
+
+  ## Key Features
+
+
+  - Scalable object storage for AI workloads
+
+  - High-performance data access
+
+  - Optimized for machine learning training and inference
+
+  - S3-compatible API
+
+
+  ## License
+
+
+  Open source. Repository: https://github.com/AIStore/AIStore
+
+
+  ## Deployment
+
+
+  Self-hosted.
+brand: null
+images: []
+updated_at: 2026-11-26 13:04

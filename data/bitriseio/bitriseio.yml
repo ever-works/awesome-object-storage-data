@@ -1,0 +1,37 @@
+name: bitrise.io
+description: A CI/CD platform for mobile apps, native or hybrid. Offers 200 free
+  builds per month with 10 min build time and two team members. OSS projects get
+  45 min build time, +1 concurrency, and unlimited team size.
+source_url: https://bitrise.io
+category: CI/CD
+tags:
+  - freemium
+  - mobile
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  bitrise.io is a CI/CD platform for mobile apps, supporting native or hybrid
+  applications.
+
+
+  ## Features
+
+
+  - CI/CD for mobile apps (native or hybrid)
+
+  - 200 free builds/month with 10 min build time
+
+  - Two team members on free plan
+
+  - OSS projects: 45 min build time, +1 concurrency, unlimited team size
+
+
+  ## Pricing
+
+
+  Freemium: 200 free builds/month. OSS projects get additional benefits.
+brand: Bitrise
+updated_at: 2026-11-26 13:04

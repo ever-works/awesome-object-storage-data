@@ -1,0 +1,29 @@
+name: ImgBB
+description: Unlimited image hosting service with drag and drop upload. 32 MB
+  per image limit. Provides direct image links, BBCode, and HTML thumbnails
+  after uploading. Login required to see upload history.
+source_url: https://imgbb.com
+category: S3-Compatible Clouds
+tags:
+  - Image hosting
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  ImgBB is an unlimited image hosting service with drag and drop functionality.
+
+  ## Features
+
+  - Unlimited image hosting
+  - Drag and drop upload
+  - 32 MB per image limit
+  - Direct image links
+  - BBCode and HTML thumbnails
+  - Upload history with login
+
+  ## Pricing
+
+  Free tier available.
+brand: ImgBB
+updated_at: 2026-11-26 13:04

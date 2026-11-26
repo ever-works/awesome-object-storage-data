@@ -1,0 +1,23 @@
+name: Icedrive
+description: Simple cloud storage service offering 10 GB of free storage.
+source_url: https://icedrive.net
+category: S3-Compatible Clouds
+tags:
+  - Cloud storage
+  - Free tier
+featured: false
+markdown: |-
+  ## Overview
+
+  Icedrive is a simple cloud storage service.
+
+  ## Features
+
+  - Cloud storage
+  - 10 GB free storage
+
+  ## Pricing
+
+  Free tier includes 10 GB of storage.
+brand: Icedrive
+updated_at: 2026-11-26 13:04
