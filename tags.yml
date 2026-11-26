@@ -1,42 +1,134 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: api
-  name: "API"
+  name: API
 - id: s3-compatible
-  name: "S3-Compatible"
+  name: S3 Compatible
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: zero-egress
-  name: "Zero-Egress"
+  name: Zero Egress
 - id: global
-  name: "Global"
+  name: Global
 - id: cdn
-  name: "CDN"
+  name: Cdn
 - id: decentralized
-  name: "Decentralized"
+  name: Decentralized
 - id: encryption
-  name: "Encryption"
+  name: Encryption
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: distributed
-  name: "Distributed"
+  name: Distributed
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: european
-  name: "European"
+  name: European
 - id: archive
-  name: "Archive"
+  name: Archive
 - id: big-data
-  name: "Big Data"
+  name: Big Data
 - id: cloud-infrastructure
-  name: "Cloud Infrastructure"
+  name: Cloud Infrastructure
 - id: on-premises
-  name: "On-Premises"
+  name: On-Premises
 - id: hybrid-cloud
-  name: "Hybrid Cloud"
+  name: Hybrid Cloud
+- id: free-tier
+  name: Free Tier
+- id: ai-powered
+  name: AI Powered
+- id: cloud-storage
+  name: Cloud Storage
+- id: zero-knowledge
+  name: Zero Knowledge
+- id: end-to-end-encrypted
+  name: End To End Encrypted
+- id: mobile
+  name: Mobile
+- id: windows
+  name: Windows
+- id: backup
+  name: Backup
+- id: borg
+  name: Borg
+- id: file-workspace
+  name: File Workspace
+- id: iam-integration
+  name: IAM Integration
+- id: team-collaboration
+  name: Team Collaboration
+- id: test-analytics
+  name: Test Analytics
+- id: image-cdn
+  name: Image CDN
+- id: media-processing
+  name: Media Processing
+- id: s3-compatibility
+  name: S3 Compatibility
+- id: software-defined
+  name: Software Defined
+- id: ai-based
+  name: AI Based
+- id: file-delivery
+  name: File Delivery
+- id: automation
+  name: Automation
+- id: blockchain
+  name: Blockchain
+- id: mit
+  name: MIT
+- id: video-streaming
+  name: Video Streaming
+- id: data-management
+  name: Data Management
+- id: image-optimization
+  name: Image Optimization
+- id: image-hosting
+  name: Image Hosting
+- id: image-management
+  name: Image Management
+- id: privacy
+  name: Privacy
+- id: posix
+  name: POSIX
+- id: data-versioning
+  name: Data Versioning
+- id: erasure-coding
+  name: Erasure Coding
+- id: ipfs
+  name: IPFS
+- id: worm
+  name: WORM
+- id: veeam
+  name: Veeam
+- id: free-api
+  name: Free API
+- id: cross-platform
+  name: Cross Platform
+- id: scalable
+  name: Scalable
+- id: multi-tenancy
+  name: Multi Tenancy
+- id: developer-tools
+  name: Developer Tools
+- id: image-compression
+  name: Image Compression
+- id: file-encoding
+  name: File Encoding
+- id: responsive-images
+  name: Responsive Images
+- id: media-pipeline
+  name: Media Pipeline
+- id: unified-platform
+  name: Unified Platform
+- id: analytics
+  name: Analytics
+- id: filesystem
+  name: Filesystem

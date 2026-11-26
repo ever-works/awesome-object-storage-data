@@ -1,14 +1,61 @@
-- url: "https://getdeploying.com/reference/object-storage"
-  title: "getdeploying.com — Object Storage Pricing: Compare 54 Providers (2026)"
-- url: "https://www.softwaresuggest.com/object-storage-software"
-  title: "SoftwareSuggest — Object Storage Software"
-- url: "https://awesome-selfhosted.net/tags/file-transfer---object-storage--file-servers.html"
-  title: "awesome-selfhosted — File Transfer - Object Storage & File Servers"
-- url: "https://github.com/ripienaar/free-for-dev#storage-and-media-processing"
-  title: "free-for-dev — section “Storage and Media Processing”"
-- url: "https://raw.githubusercontent.com/mixpeek/awesome-object-storage/HEAD/README.md"
-  title: "GitHub list — mixpeek/awesome-object-storage (38★)"
-- url: "https://github.com/topics/object-storage"
-  title: "GitHub topic — `object-storage` (1,890 repos)"
-- url: "https://github.com/topics/s3"
-  title: "GitHub topic — `s3` (10,799 repos)"
+- url: https://awesome-selfhosted.net/tags/file-transfer---object-storage--file-servers.html
+  normalized_url: https://awesome-selfhosted.net/tags/file-transfer---object-storage--file-servers.html
+  first_seen_at: 2026-11-26T12:38:10.310Z
+  last_attempted_at: 2026-11-26T12:38:10.310Z
+  last_success_at: 2026-11-26T12:38:10.310Z
+  status: success
+  items_created: 6
+  pipeline: agent-pipeline
+- url: https://dev.to/aws/every-aws-s3-compatible-api-provider-ever-6fc
+  normalized_url: https://dev.to/aws/every-aws-s3-compatible-api-provider-ever-6fc
+  first_seen_at: 2026-11-26T13:02:58.150Z
+  last_attempted_at: 2026-11-26T13:02:58.150Z
+  last_success_at: 2026-11-26T13:02:58.150Z
+  status: success
+  items_created: 9
+  pipeline: agent-pipeline
+- url: https://getdeploying.com/reference/object-storage
+  normalized_url: https://getdeploying.com/reference/object-storage
+  first_seen_at: 2026-11-26T12:35:03.647Z
+  last_attempted_at: 2026-11-26T12:35:03.647Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://getdeploying.com/reference/object-storage"
+- url: https://github.com/ripienaar/free-for-dev#storage-and-media-processing
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-26T12:55:19.643Z
+  last_attempted_at: 2026-11-26T12:55:19.643Z
+  last_success_at: 2026-11-26T12:55:19.643Z
+  status: success
+  items_created: 34
+  pipeline: agent-pipeline
+- url: https://github.com/topics/object-storage
+  normalized_url: https://github.com/topics/object-storage
+  first_seen_at: 2026-11-26T13:01:19.163Z
+  last_attempted_at: 2026-11-26T13:01:19.163Z
+  last_success_at: 2026-11-26T13:01:19.163Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline
+- url: https://github.com/topics/s3
+  title: GitHub topic — `s3` (10,799 repos)
+  normalized_url: https://github.com/topics/s3
+- url: https://raw.githubusercontent.com/mixpeek/awesome-object-storage/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/mixpeek/awesome-object-storage/HEAD/README.md
+  first_seen_at: 2026-11-26T12:41:12.038Z
+  last_attempted_at: 2026-11-26T12:41:12.038Z
+  last_success_at: 2026-11-26T12:41:12.038Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/object-storage-software
+  normalized_url: https://www.softwaresuggest.com/object-storage-software
+  first_seen_at: 2026-11-26T12:58:22.583Z
+  last_attempted_at: 2026-11-26T12:58:22.583Z
+  last_success_at: 2026-11-26T12:58:22.583Z
+  status: success
+  items_created: 16
+  pipeline: agent-pipeline
