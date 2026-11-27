@@ -1,0 +1,36 @@
+name: American Cloud A2
+description: American Cloud A2 offers S3-compatible object storage with
+  path-style addressing. The service is accessible via regional endpoints under
+  americancloud.com.
+source_url: https://americancloud.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  American Cloud A2 provides S3-compatible object storage accessible through
+  regional endpoints.
+
+
+  ## Endpoint Format
+
+
+  a2-<region>.americancloud.com
+
+
+  ## Addressing Style
+
+
+  Path-style addressing is used.
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

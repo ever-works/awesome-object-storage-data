@@ -1,0 +1,35 @@
+name: China Mobile Ecloud EOS
+description: China Mobile Ecloud EOS offers S3-compatible object storage with
+  city-specific endpoints under cmecloud.cn.
+source_url: https://ecloud.10086.cn
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  China Mobile Ecloud EOS provides S3-compatible object storage accessible
+  through city-specific endpoints.
+
+
+  ## Endpoint Format
+
+
+  eos-<city>-1.cmecloud.cn
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

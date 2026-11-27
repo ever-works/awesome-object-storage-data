@@ -1,0 +1,30 @@
+name: NetApp ONTAP S3
+description: NetApp ONTAP S3 is an on-premises enterprise storage system with
+  S3-compatible API support.
+source_url: https://www.netapp.com
+category: Self Hosted Object Storage
+tags:
+  - Self Hosted
+  - On-Premises
+  - Enterprise
+  - S3 Compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NetApp ONTAP S3 provides on-premises enterprise object storage with
+  S3-compatible API support.
+
+
+  ## Deployment
+
+
+  On-premises.
+
+
+  ## Pricing Model
+
+
+  Enterprise, paid.
+updated_at: 2026-11-27 02:38

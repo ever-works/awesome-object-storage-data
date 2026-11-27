@@ -1,0 +1,35 @@
+name: Baidu AI Cloud BOS
+description: Baidu AI Cloud BOS offers S3-compatible object storage with
+  regional endpoints under bcebos.com.
+source_url: https://cloud.baidu.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Baidu AI Cloud BOS provides S3-compatible object storage accessible through
+  regional endpoints.
+
+
+  ## Endpoint Format
+
+
+  s3.<region>.bcebos.com
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

@@ -1,0 +1,35 @@
+name: Leaseweb Object Storage
+description: Leaseweb Object Storage offers S3-compatible object storage with
+  regional endpoints.
+source_url: https://www.leaseweb.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Leaseweb Object Storage provides S3-compatible object storage accessible
+  through regional endpoints.
+
+
+  ## Endpoint Format
+
+
+  regional endpoint
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

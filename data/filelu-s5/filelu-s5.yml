@@ -1,0 +1,34 @@
+name: FileLu S5
+description: FileLu S5 offers S3-compatible object storage accessible via s5lu.com.
+source_url: https://filelu.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FileLu S5 provides S3-compatible object storage accessible via a single
+  endpoint.
+
+
+  ## Endpoint Format
+
+
+  s5lu.com
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

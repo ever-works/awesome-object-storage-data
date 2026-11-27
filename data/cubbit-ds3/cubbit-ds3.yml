@@ -1,0 +1,36 @@
+name: Cubbit DS3
+description: Cubbit DS3 offers S3-compatible object storage with a distributed
+  architecture. The service is accessible via s3.cubbit.eu.
+source_url: https://cubbit.eu
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+  - Decentralized
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cubbit DS3 provides S3-compatible object storage with a distributed,
+  peer-to-peer architecture.
+
+
+  ## Endpoint Format
+
+
+  s3.cubbit.eu
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

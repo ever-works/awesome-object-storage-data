@@ -1,0 +1,26 @@
+name: Exaba
+description: Exaba is a self-hosted S3-compatible object storage server.
+source_url: https://exaba.com
+category: Self Hosted Object Storage
+tags:
+  - Self Hosted
+  - S3 Compatible
+  - Open Source
+featured: false
+markdown: |-
+  ## Overview
+
+  Exaba provides a self-hosted S3-compatible object storage server.
+
+  ## Endpoint Format
+
+  self-hosted
+
+  ## Addressing Style
+
+  Path-style addressing.
+
+  ## Pricing Model
+
+  Open source, self-hosted.
+updated_at: 2026-11-27 02:38

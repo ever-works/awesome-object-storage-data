@@ -1,0 +1,47 @@
+name: LeoFS
+description: LeoFS is an open-source distributed object store with an
+  S3-compatible interface. It is designed for distributed object storage
+  deployments and uses path-style addressing. The gateway endpoint and
+  credentials are taken from the LeoFS configuration.
+source_url: https://leo-project.net/leofs/
+category: Self Hosted Object Storage
+tags:
+  - open-source
+  - self-hosted
+  - distributed
+  - S3-compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LeoFS is an open-source distributed object store with an S3-compatible
+  interface. It is designed for distributed object storage deployments.
+
+
+  ## Features
+
+
+  - Open-source distributed object store
+
+  - S3-compatible interface
+
+  - Distributed architecture
+
+  - Self-hosted deployment
+
+
+  ## Deployment
+
+
+  Self-hosted. Endpoint format: your LeoFS gateway address (your own
+  deployment). Addressing: path-style.
+
+
+  ## License
+
+
+  Open source.
+brand: LeoProject
+images: []
+updated_at: 2026-11-27 02:38

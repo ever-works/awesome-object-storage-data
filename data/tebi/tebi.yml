@@ -1,0 +1,26 @@
+name: Tebi
+description: Tebi offers S3-compatible object storage accessible via s3.tebi.io.
+source_url: https://tebi.io
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Tebi provides S3-compatible object storage accessible via a single endpoint.
+
+  ## Endpoint Format
+
+  s3.tebi.io
+
+  ## Addressing Style
+
+  Virtual-hosted (bucket in subdomain).
+
+  ## Pricing Model
+
+  Paid service.
+updated_at: 2026-11-27 02:38

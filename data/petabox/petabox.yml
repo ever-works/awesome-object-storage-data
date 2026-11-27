@@ -1,0 +1,35 @@
+name: Petabox
+description: Petabox offers S3-compatible object storage with regional endpoints
+  under petabox.io.
+source_url: https://petabox.io
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Petabox provides S3-compatible object storage accessible through regional
+  endpoints.
+
+
+  ## Endpoint Format
+
+
+  s3.<region>.petabox.io
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

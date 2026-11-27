@@ -1,0 +1,35 @@
+name: NAVER Cloud Object Storage
+description: NAVER Cloud Object Storage offers S3-compatible object storage with
+  regional endpoints under ncloudstorage.com.
+source_url: https://www.ncloud.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NAVER Cloud Object Storage provides S3-compatible object storage accessible
+  through regional endpoints.
+
+
+  ## Endpoint Format
+
+
+  <region>.object.ncloudstorage.com
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

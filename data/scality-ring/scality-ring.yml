@@ -1,0 +1,30 @@
+name: Scality RING / ARTESCA
+description: Scality RING and ARTESCA are on-premises enterprise object storage
+  platforms with S3-compatible API support.
+source_url: https://scality.com
+category: Self Hosted Object Storage
+tags:
+  - Self Hosted
+  - On-Premises
+  - Enterprise
+  - S3 Compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Scality RING and ARTESCA provide on-premises enterprise object storage with
+  S3-compatible API support.
+
+
+  ## Deployment
+
+
+  On-premises.
+
+
+  ## Pricing Model
+
+
+  Enterprise, paid.
+updated_at: 2026-11-27 02:38

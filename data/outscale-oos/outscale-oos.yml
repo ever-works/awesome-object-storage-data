@@ -1,0 +1,35 @@
+name: Outscale OOS
+description: Outscale OOS offers S3-compatible object storage with regional
+  endpoints under outscale.com.
+source_url: https://www.outscale.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Outscale OOS provides S3-compatible object storage accessible through regional
+  endpoints.
+
+
+  ## Endpoint Format
+
+
+  oos.<region>.outscale.com
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

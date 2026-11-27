@@ -1,0 +1,35 @@
+name: Intercolo Object Storage
+description: Intercolo Object Storage offers S3-compatible object storage
+  accessible via de-fra.i3storage.com.
+source_url: https://intercolo.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Intercolo Object Storage provides S3-compatible object storage accessible via
+  a fixed endpoint.
+
+
+  ## Endpoint Format
+
+
+  de-fra.i3storage.com
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

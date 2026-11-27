@@ -1,0 +1,35 @@
+name: Netease NOS
+description: Netease NOS offers S3-compatible object storage with regional
+  endpoints under 126.net.
+source_url: https://www.163.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Netease NOS provides S3-compatible object storage accessible through regional
+  endpoints.
+
+
+  ## Endpoint Format
+
+
+  nos-<region>.126.net
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

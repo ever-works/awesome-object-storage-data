@@ -1,0 +1,36 @@
+name: ArvanCloud
+description: ArvanCloud offers S3-compatible object storage with regional
+  endpoints under arvanstorage.ir. The service supports virtual-hosted
+  addressing style.
+source_url: https://arvancloud.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ArvanCloud provides S3-compatible object storage accessible through regional
+  endpoints.
+
+
+  ## Endpoint Format
+
+
+  s3.<region>.arvanstorage.ir
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

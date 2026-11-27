@@ -1,0 +1,27 @@
+name: Liara
+description: Liara offers S3-compatible object storage accessible via
+  storage.iran.liara.space.
+source_url: https://liara.space
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Liara provides S3-compatible object storage accessible via a fixed endpoint.
+
+  ## Endpoint Format
+
+  storage.iran.liara.space
+
+  ## Addressing Style
+
+  Virtual-hosted (bucket in subdomain).
+
+  ## Pricing Model
+
+  Paid service.
+updated_at: 2026-11-27 02:38

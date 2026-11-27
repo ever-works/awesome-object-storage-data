@@ -1,0 +1,35 @@
+name: Storadera
+description: Storadera offers S3-compatible object storage with regional
+  endpoints under storadera.com.
+source_url: https://storadera.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Storadera provides S3-compatible object storage accessible through regional
+  endpoints.
+
+
+  ## Endpoint Format
+
+
+  <region>.s3.storadera.com
+
+
+  ## Addressing Style
+
+
+  Virtual-hosted (bucket in subdomain).
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38

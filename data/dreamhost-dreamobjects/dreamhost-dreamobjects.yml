@@ -1,0 +1,36 @@
+name: DreamHost DreamObjects
+description: DreamHost DreamObjects offers S3-compatible object storage with
+  regional endpoints under dream.io. Supports both virtual-hosted and path-style
+  addressing.
+source_url: https://dreamhost.com
+category: S3 Compatible Clouds
+tags:
+  - S3 Compatible
+  - Paid
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DreamHost DreamObjects provides S3-compatible object storage accessible
+  through regional endpoints.
+
+
+  ## Endpoint Format
+
+
+  s3.<region>.dream.io
+
+
+  ## Addressing Style
+
+
+  Supports both virtual-hosted and path-style addressing.
+
+
+  ## Pricing Model
+
+
+  Paid service.
+updated_at: 2026-11-27 02:38
