@@ -37,7 +37,7 @@
 - id: cloud-infrastructure
   name: Cloud Infrastructure
 - id: on-premises
-  name: On-Premises
+  name: On Premises
 - id: hybrid-cloud
   name: Hybrid Cloud
 - id: free-tier
@@ -132,3 +132,21 @@
   name: Analytics
 - id: filesystem
   name: Filesystem
+- id: permanent-storage
+  name: Permanent Storage
+- id: immutable
+  name: Immutable
+- id: storage-marketplace
+  name: Storage Marketplace
+- id: p2p
+  name: P2P
+- id: content-addressed
+  name: Content Addressed
+- id: rust
+  name: Rust
+- id: gateway
+  name: Gateway
+- id: rclone
+  name: Rclone
+- id: proxy
+  name: Proxy

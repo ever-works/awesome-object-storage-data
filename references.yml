@@ -6,6 +6,22 @@
   status: success
   items_created: 6
   pipeline: agent-pipeline
+- url: https://blober.io/kb/articles/s3-compatible-storage-providers-complete-list
+  normalized_url: https://blober.io/kb/articles/s3-compatible-storage-providers-complete-list
+  first_seen_at: 2026-11-27T02:31:54.101Z
+  last_attempted_at: 2026-11-27T02:31:54.101Z
+  last_success_at: 2026-11-27T02:31:54.101Z
+  status: success
+  items_created: 37
+  pipeline: agent-pipeline
+- url: https://blober.io/kb/articles/self-hosted-open-source-s3-compatible-storage
+  normalized_url: https://blober.io/kb/articles/self-hosted-open-source-s3-compatible-storage
+  first_seen_at: 2026-11-27T02:33:48.402Z
+  last_attempted_at: 2026-11-27T02:33:48.402Z
+  last_success_at: 2026-11-27T02:33:48.402Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
 - url: https://dev.to/aws/every-aws-s3-compatible-api-provider-ever-6fc
   normalized_url: https://dev.to/aws/every-aws-s3-compatible-api-provider-ever-6fc
   first_seen_at: 2026-11-26T13:02:58.150Z
@@ -43,6 +59,16 @@
 - url: https://github.com/topics/s3
   title: GitHub topic — `s3` (10,799 repos)
   normalized_url: https://github.com/topics/s3
+- url: https://nexonhost.com/self-hosted-object-storage
+  normalized_url: https://nexonhost.com/self-hosted-object-storage
+  first_seen_at: 2026-11-27T02:35:59.442Z
+  last_attempted_at: 2026-11-27T02:35:59.442Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://nexonhost.com/self-hosted-object-storage"
 - url: https://raw.githubusercontent.com/mixpeek/awesome-object-storage/HEAD/README.md
   normalized_url: https://raw.githubusercontent.com/mixpeek/awesome-object-storage/HEAD/README.md
   first_seen_at: 2026-11-26T12:41:12.038Z
@@ -50,6 +76,39 @@
   last_success_at: 2026-11-26T12:41:12.038Z
   status: success
   items_created: 10
+  pipeline: agent-pipeline
+- url: https://upstash.com/kb/best-s3-alternatives
+  normalized_url: https://upstash.com/kb/best-s3-alternatives
+  first_seen_at: 2026-11-27T02:37:05.777Z
+  last_attempted_at: 2026-11-27T02:37:05.777Z
+  last_success_at: 2026-11-27T02:37:05.777Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.coralnodes.com/amazon-s3-alternatives
+  normalized_url: https://www.coralnodes.com/amazon-s3-alternatives
+  first_seen_at: 2026-11-27T02:32:41.225Z
+  last_attempted_at: 2026-11-27T02:32:41.225Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL:
+    https://www.coralnodes.com/amazon-s3-alternatives"
+- url: https://www.fluidrwa.com/blog/arweave-vs-filecoin-vs-storj
+  normalized_url: https://www.fluidrwa.com/blog/arweave-vs-filecoin-vs-storj
+  first_seen_at: 2026-11-27T02:37:40.581Z
+  last_attempted_at: 2026-11-27T02:37:40.581Z
+  last_success_at: 2026-11-27T02:37:40.581Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://www.offshoreserverhosting.com/blog/self-hosted-object-storage-2026-seaweedfs-garage-minio-replacement
+  normalized_url: https://www.offshoreserverhosting.com/blog/self-hosted-object-storage-2026-seaweedfs-garage-minio-replacement
+  first_seen_at: 2026-11-27T02:35:13.937Z
+  last_attempted_at: 2026-11-27T02:35:13.937Z
+  last_success_at: 2026-11-27T02:35:13.937Z
+  status: success
+  items_created: 1
   pipeline: agent-pipeline
 - url: https://www.softwaresuggest.com/object-storage-software
   normalized_url: https://www.softwaresuggest.com/object-storage-software
@@ -59,3 +118,13 @@
   status: success
   items_created: 16
   pipeline: agent-pipeline
+- url: https://www.tigrisdata.com/docs/ai-agents/s3-compatible-alternatives
+  normalized_url: https://www.tigrisdata.com/docs/ai-agents/s3-compatible-alternatives
+  first_seen_at: 2026-11-27T02:36:30.467Z
+  last_attempted_at: 2026-11-27T02:36:30.467Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.tigrisdata.com/docs/ai-agents/s3-compatible-alternatives"
